@@ -1,0 +1,17 @@
+const INVENTORY_ITEM_TYPES = {
+    BLOCK: 0,
+    BLOCK_BACKGROUND: 1,
+    SEED: 2,
+    BLOCK_WATER: 3,
+    WEARABLE_ITEM: 4,
+    WEAPON: 5,
+    THROWABLE: 6,
+    CONSUMABLE: 7,
+    SHARD: 8,
+    BLUEPRINT: 9,
+    FAMILIAR: 10,
+    FAM_FOOD: 11,
+    BLOCK_WIRING: 12
+};
+
+module.exports = INVENTORY_ITEM_TYPES;

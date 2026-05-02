@@ -1,0 +1,12 @@
+const CHANNEL_TYPES = {
+    LOCAL: 0,
+    GLOBAL: 1,
+    FRIEND_MESSAGE: 2,
+    FRQ_MESSAGE: 3,
+    CLAN: 4,
+    CHANNEL_COUNT: 5,
+    SERVER_MESSAGE: 6,
+    PET_COMMAND: 7
+};
+
+module.exports = CHANNEL_TYPES;
